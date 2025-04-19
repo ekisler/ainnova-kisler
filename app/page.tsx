@@ -694,7 +694,7 @@ const App: React.FC = () => {
                         <MailOutlined className="text-blue-600 text-xl mt-1 mr-4" />
                         <div>
                           <h4 className="font-semibold">Correo Electrónico</h4>
-                          <p className="text-gray-600">contacto@ainnova.tech</p>
+                          <p className="text-gray-600">kisler.tecnologia@gmail.com</p>
                         </div>
                       </div>
                       <div className="flex items-start">
@@ -730,13 +730,17 @@ const App: React.FC = () => {
                         <TwitterOutlined />
                       </a>
                       <a
-                        href="#"
+                        href="https://www.linkedin.com/in/emisael-kisler-fullstack/"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="text-2xl text-gray-600 hover:text-blue-600 transition-colors cursor-pointer"
                       >
                         <LinkedinOutlined />
                       </a>
                       <a
-                        href="#"
+                        href="https://github.com/ekisler"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="text-2xl text-gray-600 hover:text-blue-600 transition-colors cursor-pointer"
                       >
                         <GithubOutlined />
