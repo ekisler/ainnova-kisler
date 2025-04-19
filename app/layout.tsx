@@ -4,11 +4,11 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "es_ES",
-    url: "https://learn-n8n.vercel.app/",
+    url: "https://ainnova-kisler.vercel.app/",
     site_name: "AInnova Kisler",
     images: [
       {
-        url: "https://res.cloudinary.com/dxfksb8ua/image/upload/v1744998918/images/bfd888fb01d5421c6bf2c1e19610b97f_rg4gjd.jpg",
+        url: "https://res.cloudinary.com/dxfksb8ua/image/upload/v1745031254/images/9eb0b1f7bb074080d9ce73a549f1a6c6_h1dfuj.jpg",
         width: 1200,
         height: 630,
         alt: "AInnova Kisler",
